@@ -1,15 +1,29 @@
+.batman1 {
+    width: 500px;
+
+}
+
 h1 {
     font-size: 25px;
     text-align: center;
+    background-color: rgb(190, 8, 8);
  
 }
  
 p {
-    font-size: 13px;
+    font-size: 23px;
     text-align: left;
+    color: white;
+    padding-left: 10px;
 }
  
-.Descricao {
-    width: 30%;
-    justify-content: center;
+.Batman {
+    /* width: 30%;
+    justify-content: center; */
+    display: flex;
+    padding-right: 10px;
+}
+
+.Descricao{
+    background-color: black;
 }
